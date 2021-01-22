@@ -1,0 +1,10 @@
+entity\Employeetb.class
+com\mycompany\examclient\service\ExampleService.class
+com\mycompany\examclient\model\EmployeeModel.class
+com\mycompany\examclient\service\HealthCheckService.class
+com\mycompany\examclient\service\EmployeeClient.class
+com\mycompany\examclient\servlets\TestServlet.class
+com\mycompany\examclient\config\CrossOriginResourceSharingFilter.class
+entity\Departmenttb.class
+com\mycompany\examclient\config\BootStrap.class
+com\mycompany\examclient\config\Producers.class
